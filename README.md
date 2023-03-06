@@ -1,8 +1,6 @@
 <h1 >Hi there, I'm Dewmith MIhisara</h1>
 <p > <img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" /> </p>
 
-- 💬 Ask me about **java and figma**
-
 - 📫 How to reach me **mihisaralokuhewage@gmail.com**
 
 <h3 >Connect with me:</h3>
