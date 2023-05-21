@@ -20,6 +20,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dewmithmihisara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 > GitHub Trophies:</h3>
-
-![](https://github-profile-trophy.vercel.app/?username=dewmithmihisara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
