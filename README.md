@@ -1,5 +1,8 @@
 <h1 >Hi there, I'm Dewmith MIhisara</h1>
-<h4 >Dedicated Software Engineering Student | Transforming Ideas into Innovative Solutions</h4>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Dedicated+Software+Engineering+Student;Transforming+Ideas+into+Innovative+Solutions;Java%20|%20Algorithms%20|%20OOP%20|%20SQL;Specialist%20on%20Codeforces;Always%20learning%20new%20things&width=500&height=50"></a>
+</p>
+
 <p > <img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" /> </p>
 <img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/e69899f0-0dcf-471d-be6f-ee04c17a38fd" alt="gif" height="220" width="360"/>
 
@@ -30,6 +33,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DewmithMihisara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
