@@ -4,8 +4,8 @@
 </p>
 
 <p > <img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" /> </p>
-<img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/0b319fa2-debe-489f-a5c7-ce9fc2ffb81b"      
-      alt="Dew" height="300">
+<img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/eefc483f-a735-43f3-af3e-30832100d248"      
+      alt="Dew" height="500">
 
 - 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
 
