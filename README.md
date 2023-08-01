@@ -36,8 +36,19 @@
 
 <a href="https://www.buymeacoffee.com/dewmith"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
-***
 <h3 > GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DewmithMihisara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+***
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
+	<img src="https://raw.githubusercontent.com/NimeshPiyumantha/repo-Nimma/main/Hi.gif" width="40px" Height="40px">
+</h5>
+<div align="center">
+  
+![repo size](https://img.shields.io/github/repo-size/DewmithMihisara/DewmithMihisara?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub stars](https://img.shields.io/github/stars/DewmithMihisara/DewmithMihisara?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/DewmithMihisara/DewmithMihisara?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
+</div>
