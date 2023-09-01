@@ -1,12 +1,12 @@
 <h1 >Hi there, I'm Dewmith MIhisara</h1>
-<p>
+<p> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Dedicated+Software+Engineering+Student;Transforming+Ideas+into+Innovative+Solutions;Java%20|%20Algorithms%20|%20OOP%20|%20SQL;Specialist%20on%20Codeforces;Always%20learning%20new%20things&width=500&height=50"></a>
 </p>
 
 <p > <img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" /> </p>
-<img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/09febcbb-a476-4f55-b790-32906df90f10"      
-      alt="Dew" height="500">
-      
+<img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/7d9f1d06-5952-46b8-b9d6-fe033ec35356"      
+      alt="img" height="500">
+
 - 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
 
 - 📝 I regularly write articles on [http://mihisaralokuhewage.42web.io/?i=1](http://mihisaralokuhewage.42web.io/?i=1)
