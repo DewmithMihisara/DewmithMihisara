@@ -1,4 +1,4 @@
-<h1 >Hi there, I'm Dewmith MIhisara</h1>
+# Hi there, I'm Dewmith MIhisara
 <p> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Dedicated+Software+Engineering+Student;Transforming+Ideas+into+Innovative+Solutions;Java%20|%20Algorithms%20|%20OOP%20|%20SQL;Specialist%20on%20Codeforces;Always%20learning%20new%20things&width=500&height=50"></a>
 </p>
@@ -15,20 +15,41 @@
 
 - 📫 How to reach me **mihisaralokuhewage@gmail.com**
 
+## Tech Stack :
 
-<h3 >Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zyne_galata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyne_galata" height="30"/></a>
-<a href="https://linkedin.com/in/dewmith mihisara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmith mihisara" height="30"/></a>
-<a href="https://stackoverflow.com/users/dewmith mihisara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dewmith mihisara" height="30"/></a>
-<a href="https://fb.com/dewmith mihisra" target="blank"><img align="center" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/4c5de25f-358a-4de4-9aa5-006094aef3ef" alt="dewmith mihisra" height="30"/></a>
-<a href="https://instagram.com/zyne_galata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyne_galata" height="30"/></a>
-<a href="https://www.hackerrank.com/dewmith mihisara 66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dewmith mihisara 66" height="30"/></a>
-<a href="https://discord.gg/Galata#3317" target="blank"><img align="center" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/8d525ea5-38cb-4e9f-890e-7bd688f39b8b" alt="Galata#3317" height="30" /></a>
-</p>
-<h3 >Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"><br> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/d7145eae-3a17-4e58-a77c-f9d0dac4e032" alt="hibernate" width="40" height="40"/><a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/763e6c41-4c1f-480b-a69b-dddd0615da33" alt="maven" width="40" height="40"/>
-</p>
+### Languages
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt=""/>
+
+### Frameworks & Library
+
+<img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt=""/><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt=""/>
+
+### Database
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt=""/>
+
+### ORM
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt=""/>
+
+### Terminal
+
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt=""/><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt=""/>
+
+### IDE
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt=""/><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt=""/>
+
+### Design
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt=""/><img src="	https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt=""/>
+
+### OS
+
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt=""/><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blac" alt=""/>
+
+***
   
 ### Donation
 
@@ -36,9 +57,27 @@
 
 <a href="https://www.buymeacoffee.com/dewmith"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
-<h3 > GitHub Stats:</h3>
+***
+
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DewmithMihisara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DewmithMihisara&theme=tokyonight)
+
+***
+
+### Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/zyne_galata" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="zyne_galata"/></a><a href="https://linkedin.com/in/dewmith mihisara" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dewmith mihisara" /></a><a href="https://twitter.com/Zyne_Galata" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="" /></a><a href="https://fb.com/dewmith mihisra" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="dewmith mihisra" /></a><a href="https://instagram.com/zyne_galata" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="zyne_galata"/></a><a href="https://www.hackerrank.com/dewmith mihisara 66" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="dewmith mihisara 66"/></a><a href="https://www.tiktok.com/@zyne_galata" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="" /></a><a href="http://mihisaralokuhewage.42web.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="" /></a>
+</p>
+
+### Groups
+
+<a href="https://gdse66.slack.com/team/U05C379MME3" target="blank"><img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="" /></a>
+<a href="galata#7149" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="" /></a>
+
 ***
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
@@ -51,3 +90,5 @@
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/DewmithMihisara/DewmithMihisara?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
+
+
