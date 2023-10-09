@@ -3,9 +3,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Dedicated+Software+Engineering+Student;Transforming+Ideas+into+Innovative+Solutions;Java%20|%20Algorithms%20|%20OOP%20|%20SQL;Specialist%20on%20Codeforces;Always%20learning%20new%20things&width=500&height=50"></a>
 </p>
 
-<p > <img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" /> </p>
+<img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" />[![committers.top badge](https://user-badge.committers.top/sri_lanka/DewmithMihisara.svg)](https://user-badge.committers.top/sri_lanka/DewmithMihisara)
+
+
 <img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/e80d54d4-27eb-45d2-b569-37a939bf7428"      
       alt="img" width="250">
+      
+ 
+
 
 - 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
 
