@@ -86,10 +86,6 @@
 <a href="galata#7149" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="" /></a>
 
 ***
-<h5 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
-𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
-</h5>
 <div align="center">
   
 ![repo size](https://img.shields.io/github/repo-size/DewmithMihisara/DewmithMihisara?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
@@ -97,5 +93,7 @@
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/DewmithMihisara/DewmithMihisara?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&text=Thank%You%!&fontSize=40&animation=twinkling&color=timeGradient&height=80&section=footer&reversal=true)
 
 
