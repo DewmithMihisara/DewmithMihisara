@@ -4,7 +4,7 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" />[![committers.top badge](https://user-badge.committers.top/sri_lanka/DewmithMihisara.svg)](https://user-badge.committers.top/sri_lanka/DewmithMihisara)
-
+<a href="https://wakatime.com/@018cbc04-4db0-44a0-a653-d922518febc2"><img src="https://wakatime.com/badge/user/018cbc04-4db0-44a0-a653-d922518febc2.svg" alt="Total time coded since Dec 31 2023" /></a>
 
 <img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/e80d54d4-27eb-45d2-b569-37a939bf7428"      
       alt="img" width="250">
