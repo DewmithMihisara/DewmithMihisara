@@ -11,13 +11,10 @@
  
 
 
-- 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
+- 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering | IJSE**
 
 - 📝 I regularly write articles on [http://mihisaralokuhewage.42web.io/?i=1](http://mihisaralokuhewage.42web.io/?i=1)
 
-- 💬 Ask me about **java , oop, sql, html, css**
-
-- 📫 How to reach me **mihisaralokuhewage@gmail.com**
 
 ## Tech Stack:
 
