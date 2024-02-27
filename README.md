@@ -1,4 +1,4 @@
-# Hi there, I'm Dewmith MIhisara
+## Hi there, I'm Dewmith MIhisara
 <p> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Transforming%20Ideas%20into%20Innovative%20Solutions;Always%20learning%20new%20things&width=500&height=50"></a>
 </p>
