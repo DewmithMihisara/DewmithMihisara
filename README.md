@@ -1,6 +1,6 @@
 # Hi there, I'm Dewmith MIhisara
 
-<img align="right" src="https://github.com/user-attachments/assets/61a20d1c-8075-47d3-a9b9-ce9baa1bf78d" alt="img" width="300" z-index="10">
+<img align="right" src="https://github.com/user-attachments/assets/61a20d1c-8075-47d3-a9b9-ce9baa1bf78d" alt="img" width="280" z-index="10">
 
 <p> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Transforming%20Ideas%20into%20Innovative%20Solutions;Always%20learning%20new%20things&width=500&height=50"></a>
