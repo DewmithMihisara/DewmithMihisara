@@ -1,7 +1,6 @@
 # Hi there, I'm Dewmith MIhisara
 
-<img align="right" src="https://github.com/user-attachments/assets/7c318daa-3ef2-48b6-b9c8-7219b25f77fb" alt="img" hight="100" z-index="10">
-<!-- ![looping-infinite-loop](https://github.com/user-attachments/assets/7c318daa-3ef2-48b6-b9c8-7219b25f77fb) -->
+<img align="right" src="https://github.com/user-attachments/assets/61a20d1c-8075-47d3-a9b9-ce9baa1bf78d" alt="img" width="300" z-index="10">
 
 <p> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Transforming%20Ideas%20into%20Innovative%20Solutions;Always%20learning%20new%20things&width=500&height=50"></a>
@@ -24,8 +23,6 @@
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt=""/><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt=""/><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt=""/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt=""/><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt=""/><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt=""/><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt=""/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt=""/><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/>
 
-
-<img align="right" src="https://github.com/user-attachments/assets/61a20d1c-8075-47d3-a9b9-ce9baa1bf78d" alt="img" hight="300" z-index="10">
 
 ### Build Tool
 
