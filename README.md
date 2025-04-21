@@ -6,7 +6,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Transforming%20Ideas%20into%20Innovative%20Solutions;Always%20learning%20new%20things&width=500&height=50"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" />[![committers.top badge](https://user-badge.committers.top/sri_lanka/DewmithMihisara.svg)](https://user-badge.committers.top/sri_lanka/DewmithMihisara)<br>
+<img src="https://komarev.com/ghpvc/?username=dewmithmihisara&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmihisara" />
+
+<!---[![committers.top badge](https://user-badge.committers.top/sri_lanka/DewmithMihisara.svg)](https://user-badge.committers.top/sri_lanka/DewmithMihisara)<br>-->
       
 - 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
 <!---
