@@ -10,7 +10,7 @@
 
 <!---[![committers.top badge](https://user-badge.committers.top/sri_lanka/DewmithMihisara.svg)](https://user-badge.committers.top/sri_lanka/DewmithMihisara)<br>-->
       
-- 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
+- 🌱 I’m currently learning **BSc (Hons) Computing**
 <!---
 - 📝 I regularly write articles on [http://mihisaralokuhewage.42web.io/?i=1](http://mihisaralokuhewage.42web.io/?i=1)
 -->
